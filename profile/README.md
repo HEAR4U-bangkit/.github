@@ -6,7 +6,7 @@ Our team wants to help people who are hard of hearing to communicate more easily
 
 <h2>Team Members</h2>
 Bangkit 2024 Capstone Team C241-PS473 members :
-<table border>
+<table>
   <th>
     <tr>
       <td>ID</td>
